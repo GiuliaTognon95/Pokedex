@@ -39,9 +39,6 @@ dotnet run --project Pokedex
 ```bash
 # Run all tests
 dotnet test
-
-# Run tests with coverage
-dotnet test /p:CollectCoverage=true
 ```
 
 ### Using Docker
