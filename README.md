@@ -44,11 +44,11 @@ dotnet test
 ### Using Docker
 
 ```bash
-# Build the Docker image
-docker build -t pokedex-api .
+# Build the Docker image (run from repository root)
+docker build -t pokedex-api ./Pokedex
 
-# Run the container
-docker run -p 5094:8080 pokedex-api
+# Run the container and publish port 5094 (container listens on 5094)
+docker run -p 5094:5094 pokedex-api
 ```
 
 ## API Endpoints
@@ -61,7 +61,7 @@ GET /pokemon/{name}
 
 **Example:**
 ```bash
-curl http://localhost:5000/pokemon/mewtwo
+curl http://localhost:5094/pokemon/mewtwo
 ```
 
 **Response:**
@@ -82,7 +82,7 @@ GET /pokemon/translated/{name}
 
 **Example:**
 ```bash
-curl http://localhost:5000/pokemon/translated/mewtwo
+curl http://localhost:5094/pokemon/translated/mewtwo
 ```
 
 **Response:**

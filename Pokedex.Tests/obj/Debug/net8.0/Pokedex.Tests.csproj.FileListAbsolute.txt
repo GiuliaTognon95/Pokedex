@@ -113,3 +113,4 @@
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex.Tests/obj/Debug/net8.0/Pokedex.Tests.pdb
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex.Tests/obj/Debug/net8.0/Pokedex.Tests.genruntimeconfig.cache
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex.Tests/obj/Debug/net8.0/ref/Pokedex.Tests.dll
+/Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex.Tests/obj/Debug/net8.0/Pokedex.Tests.sourcelink.json
