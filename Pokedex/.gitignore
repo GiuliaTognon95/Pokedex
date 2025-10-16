@@ -1,0 +1,52 @@
+# Build directories
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# NuGet
+packages/
+*.nupkg
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# Environment & Config
+.env
+appsettings.local.json
+appsettings.Production.json
+appsettings.Development.json
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Temp files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3

@@ -35,3 +35,4 @@
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex/obj/Debug/net8.0/Pokedex.pdb
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex/obj/Debug/net8.0/Pokedex.genruntimeconfig.cache
 /Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex/obj/Debug/net8.0/ref/Pokedex.dll
+/Users/giuliatognon/Desktop/Progetti/Pokedex/Pokedex/obj/Debug/net8.0/Pokedex.sourcelink.json
